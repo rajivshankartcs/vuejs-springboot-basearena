@@ -1,0 +1,1 @@
+This project covers the application build, establish CI / CD pipeline, service deployment, monitoring setup and testing for applications developed using java, tomcat, sqlite, nginx
