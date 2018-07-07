@@ -1,0 +1,6 @@
+    <project>
+      <modelVersion>1.0.0</modelVersion>
+      <groupId>com.mycompany.app</groupId>
+      <artifactId>vuejs-springboot-basearena</artifactId>
+      <version>1</version>
+    </project>
